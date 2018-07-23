@@ -1,6 +1,8 @@
 # Bellman-Ford-Router-Implementation
 A C++ script written to simulate routers communicating between each other on a network and updating their forwarding tables using a distance-vector algorithm (Bellman Ford).
 
+This was an assigment from my senior year at NJIT. It received a 6.0 out of 7.0.
+
 Programming Language: C++
 Version: C++ 11
 Command lines: 
